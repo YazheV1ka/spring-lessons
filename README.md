@@ -1,2 +1,2 @@
-# spring-lessons
-code from lessons
+#code from "Spring Framework"[alishev] course
+
