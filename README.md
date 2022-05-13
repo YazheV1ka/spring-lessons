@@ -1,2 +1,1 @@
-# spring-lessons
-with CRUD app
+# spring-course
