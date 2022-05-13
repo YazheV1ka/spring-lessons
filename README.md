@@ -1,1 +1,1 @@
-# spring-course
+# spring-lessons
